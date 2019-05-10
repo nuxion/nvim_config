@@ -1,0 +1,12 @@
+total 44K
+drwxr-xr-x 12 nuxion nuxion 4.0K Mar 20 11:42 ale
+drwxr-xr-x  6 nuxion nuxion 4.0K Mar 18 12:08 ctrlp.vim
+drwxr-xr-x  9 nuxion nuxion 4.0K Apr 22 11:14 denite.nvim
+drwxr-xr-x  7 nuxion nuxion 4.0K Mar 18 12:46 deoplete-jedi
+drwxr-xr-x 10 nuxion nuxion 4.0K Mar 18 12:39 deoplete.nvim
+drwxr-xr-x  6 nuxion nuxion 4.0K Apr 22 11:43 indentLine
+drwxr-xr-x 10 nuxion nuxion 4.0K Mar 19 16:56 nerdtree
+drwxr-xr-x  4 nuxion nuxion 4.0K Mar 18 12:02 nerdtree-git-plugin
+drwxr-xr-x  7 nuxion nuxion 4.0K Mar 18 12:12 vim-airline
+drwxr-xr-x  8 nuxion nuxion 4.0K Mar 25 15:31 vim-gitgutter
+drwxr-xr-x  5 nuxion nuxion 4.0K Mar 20 11:07 vim-isort
